@@ -1,6 +1,6 @@
 - 👋 Hi I'm Michał
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java and c++
+- 🌱 C# and clean architecture
 
 If you want , take a look on my current project.
 
