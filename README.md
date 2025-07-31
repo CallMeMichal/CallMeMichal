@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on backend deve
 - **Clean Architecture** & SOLID principles
 - **Microservices** architecture
 - **RESTful APIs** design and development
+- **JWT Authentication**
 
 ### Frontend (Learning)
 - **Angular** 🌱 *Currently expanding my skills*
@@ -65,6 +66,21 @@ Welcome to my GitHub profile! I'm a passionate developer focused on backend deve
 ## 📈 GitHub Stats
 
 ![Michał's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallMeMichal&show_icons=true&theme=default)
+
+## 📚 Recommended Resources
+
+Here are some valuable resources I recommend for fellow developers:
+
+
+### Architecture & Best Practices
+- **[Clean Architecture by Uncle Bob](https://blog.cleancoder.com/)** - Essential principles for maintainable code
+- **[Microsoft .NET Application Architecture Guides](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides)** - Official architecture patterns
+- **[Design Patterns](https://refactoring.guru/pl/design-patterns/catalog)** - Patterns
+
+### Development Tools
+- **[JetBrains Rider](https://www.jetbrains.com/rider/)** - Powerful .NET IDE
+- **[Postman](https://www.postman.com/)** - API development and testing
+- **[Docker](https://www.docker.com/)** - Containerization for microservices
 
 ## 🤝 Let's Connect!
 
