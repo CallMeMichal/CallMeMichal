@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on backend deve
 - **Clean Architecture** & SOLID principles
 - **Microservices** architecture
 - **RESTful APIs** design and development
-- **JWT Authentication**
 
 ### Frontend (Learning)
 - **Angular** 🌱 *Currently expanding my skills*
