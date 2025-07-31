@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on backend deve
 
 ### 🏢 [Tasks.Emplo](https://github.com/CallMeMichal/Tasks.Emplo)
 *Latest Project - C#*
-> Currently working on this project - check it out for my most recent work!
 
 ### 🎯 [CoursePlatformMicroservices](https://github.com/CallMeMichal/CoursePlatformMicroservices)
 *C# • Microservices Architecture*
