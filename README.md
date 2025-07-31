@@ -77,11 +77,6 @@ Here are some valuable resources I recommend for fellow developers:
 - **[Microsoft .NET Application Architecture Guides](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides)** - Official architecture patterns
 - **[Design Patterns](https://refactoring.guru/pl/design-patterns/catalog)** - Patterns
 
-### Development Tools
-- **[JetBrains Rider](https://www.jetbrains.com/rider/)** - Powerful .NET IDE
-- **[Postman](https://www.postman.com/)** - API development and testing
-- **[Docker](https://www.docker.com/)** - Containerization for microservices
-
 ## 🤝 Let's Connect!
 
 I'm always open to interesting conversations about software development, clean architecture, and new technologies. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
