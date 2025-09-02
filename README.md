@@ -16,8 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on backend deve
 - **TypeScript**
 
 ### Other Technologies
-- **Python** (Data processing, algorithms)
-- **Java** (Academic projects, AI algorithms)
+- **Java** (Academic projects)
 
 ## 🚀 Featured Projects
 
